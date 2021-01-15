@@ -1,4 +1,5 @@
 .lead {
+  max-width: 984px;
   padding-bottom: 92px;
   margin: 0 auto;
   display: flex;
