@@ -1,6 +1,6 @@
 .lead {
   max-width: 984px;
-  padding-bottom:92px;
+  padding-bottom: 92px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -8,19 +8,19 @@
   box-sizing: border-box;
 }
 
-@media screen (max-width: 1279px) and (max-width: 1024px) {
+@media screen and (max-width: 1279px) and (max-width: 1024px) {
   .lead {
     max-width: 928px;
   }
 }
 
-@media screen (max-width: 1023px) and (max-width: 768px) {
+@media screen and (max-width: 1023px) and (max-width: 768px) {
   .lead {
     padding-bottom: 88px;
   }
 }
 
-@media screen (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .lead {
     padding-bottom: 64px;
   }
