@@ -12,7 +12,7 @@
 
 ####
 
-* [ССылка на готовую работу](https://akinfiyeva.github.io/russian-travel/)
+* [Ссылка на готовую работу](https://akinfiyeva.github.io/russian-travel/)
 
 **Figma**
 
